@@ -1,0 +1,7 @@
+path: 'inhouse'
+train: 'train/rgb/images'
+val: 'test/rgb/images'
+
+# class names
+names: 
+  0: 'human'
